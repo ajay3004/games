@@ -2,3 +2,4 @@ cricket
 football
 tennis
 badminton
+Skating
