@@ -4,3 +4,4 @@ tennis
 badminton
 Skating
 swimming
+Boxing
