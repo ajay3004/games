@@ -1,3 +1,4 @@
 rotate
 run
 have fun
+slide
