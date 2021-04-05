@@ -3,3 +3,4 @@ football
 tennis
 badminton
 Skating
+swimming
