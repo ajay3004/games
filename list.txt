@@ -5,3 +5,4 @@ badminton
 Skating
 swimming
 Boxing
+Running
